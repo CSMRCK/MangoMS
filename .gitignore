@@ -1,0 +1,8 @@
+
+Mango.Web/wwwroot/lib/
+Mango.Web/obj/
+Mango.Web/bin/
+Mango.Services.ProductAPI/obj/
+.vs/
+Mango.Services.ProductAPI/WeatherForecast.cs
+Mango.Services.ProductAPI/Controllers/WeatherForecastController.cs
